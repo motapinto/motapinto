@@ -9,7 +9,7 @@ Hi there, I'm **Martim Pinto da Silva**, a **Software Engineering student** 🚀
 - 🌱 I’m currently learning about Machine Learning, NLP, Recommender systems and Databases
 - 🤔 My interests are with Natural Language Processing, Recommender systems, Web Development and Machine Learning;
 - 💼 I’m pursuing a Masters's degree in Software Engineering;
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1WbSamo8NSMlH2edJ4RBTC1LDXWXPpqsS/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1abgUGNIbx0OfUkuogAy0CsI5StcA-sDa/view?usp=sharing) to get more info.
 
 ## 📫 How to reach me 
 <a href="mailto:martimpintodasilva@gmail.com">
@@ -50,7 +50,5 @@ Hi there, I'm **Martim Pinto da Silva**, a **Software Engineering student** 🚀
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-[![](https://github-readme-stats.vercel.app/api?username=motapinto&count_private=true&show_icons=true&hide_border=true&title_color=9CC3D5FF&text_color=FFD662FF&theme=onedark&include_all_commits=true&custom_title=Github+Stats)](https://github.com/motapinto)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motapinto&layout=compact&hide=glsl&langs_count=10&title_color=9CC3D5FF&text_color=FFD662FF&theme=onedark&include_all_commits=true&custom_title=Most+Used+Languages&card_width=450)
