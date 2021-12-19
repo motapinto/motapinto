@@ -13,16 +13,13 @@ Hi there, I'm **Martim Pinto da Silva**, a **Software Engineering student** 🚀
 
 ## 📫 How to reach me 
 <a href="mailto:martimpintodasilva@gmail.com">
-  <img align="left" alt="Martim's Email" width="22px" src="https://image.flaticon.com/icons/svg/888/888853.svg" />
+  <img align="left" alt="Martim's Email" height="40" src="https://i.imgur.com/MpHzeb6.png" />
 </a>
 <a href="https://www.linkedin.com/in/martim-pinto-da-silva-543a01183/">
-  <img align="left" alt="Martim's LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384062.svg" />
+  <img align="left" alt="Martim's LinkdeIn" height="40" src="https://i.imgur.com/KdLlbBV.png" />
 </a>
 <a href="https://www.instagram.com/martim_ps/">
-  <img align="left" alt="Martim's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
-</a>
-<a href="https://www.facebook.com/motapintosilva">
-  <img align="left" alt="Martim's Facebook" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+  <img align="left" alt="Martim's Instagram" height="40" src="https://i.imgur.com/Nkq9zwN.png" />
 </a>
 <br/>
 
