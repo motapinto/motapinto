@@ -4,8 +4,8 @@
 Hi there, I'm **Martim Pinto da Silva**, a **Deep Learning Engineer** 🚀 from Porto. 
 </br>
 </br>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-## Talking about Personal Stuffs:
+<img align="right" alt="GIF" width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## Personal Stuffs:
 - 🌱 Currently learning about Explainable AI, and Computer Vision;
 - 🤔 Interested in Recommender systems, Deep Learning, and Computer Vision;
 - 💼 Working on Autonomous Driving research.
